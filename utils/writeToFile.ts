@@ -40,3 +40,14 @@ export async function logCSV(object: object[], id?: string) {
     console.error(err);
   }
 }
+
+export async function writeImageToDisk(image: string, id: string) {
+  try {
+    fs.writeFile(`images/${id}.png`, image, "base64", (err) => {
+      if (err) console.error(err);
+      else console.log(`✨ image written! - ${id}`);
+    });
+  } catch (err) {
+    console.error(err);
+  }
+}

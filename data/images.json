@@ -1,0 +1,1421 @@
+{
+  "content": [
+    {
+      "Key": "bad-2023-04-14T08:50:01.319Z.png",
+      "LastModified": "2023-04-14T08:50:03.000Z",
+      "ETag": "\"3950ffe9baef58bc012ad9cae113d6c5\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5718,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T08:52:29.287Z.png",
+      "LastModified": "2023-04-14T08:52:30.000Z",
+      "ETag": "\"fa1ec73c8361e1a3dfc5040226413755\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4188,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T08:53:19.685Z.png",
+      "LastModified": "2023-04-14T08:53:21.000Z",
+      "ETag": "\"2b52910a5f136f43779ec592df92d06b\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5285,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:00:58.079Z.png",
+      "LastModified": "2023-04-14T09:01:00.000Z",
+      "ETag": "\"e9a91d337998b2b25b5d466832bc6f87\"",
+      "ChecksumAlgorithm": [],
+      "Size": 1314,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:01:06.661Z.png",
+      "LastModified": "2023-04-14T09:01:08.000Z",
+      "ETag": "\"af3791898d5c42e5fbfedbc9e3013084\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3883,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:02:47.840Z.png",
+      "LastModified": "2023-04-14T09:02:49.000Z",
+      "ETag": "\"a3166be63edb9e6508ca8c9421170f7a\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6408,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:03:03.173Z.png",
+      "LastModified": "2023-04-14T09:03:04.000Z",
+      "ETag": "\"d6491d3e0a2eb862ae289faf84300d61\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4818,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:03:07.127Z.png",
+      "LastModified": "2023-04-14T09:03:08.000Z",
+      "ETag": "\"fafece95e6fa2fcaa809a84003207314\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6245,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:03:08.214Z.png",
+      "LastModified": "2023-04-14T09:03:09.000Z",
+      "ETag": "\"fafece95e6fa2fcaa809a84003207314\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6245,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:03:08.821Z.png",
+      "LastModified": "2023-04-14T09:03:10.000Z",
+      "ETag": "\"169b9d4a140daa803d892cddd90d5966\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6491,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:03:10.734Z.png",
+      "LastModified": "2023-04-14T09:03:12.000Z",
+      "ETag": "\"dd915c9e1c33531863a29a40ba3c9236\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5562,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:03:25.588Z.png",
+      "LastModified": "2023-04-14T09:03:27.000Z",
+      "ETag": "\"baa18883a9c0e120c928f8e1f762b856\"",
+      "ChecksumAlgorithm": [],
+      "Size": 2616,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:05:42.653Z.png",
+      "LastModified": "2023-04-14T09:05:44.000Z",
+      "ETag": "\"671abf51195c5751d1804e98c0fc28c4\"",
+      "ChecksumAlgorithm": [],
+      "Size": 8955,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:06:41.858Z.png",
+      "LastModified": "2023-04-14T09:06:43.000Z",
+      "ETag": "\"d71bac49d0735c69ba0b92386d937917\"",
+      "ChecksumAlgorithm": [],
+      "Size": 9378,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:06:57.477Z.png",
+      "LastModified": "2023-04-14T09:06:59.000Z",
+      "ETag": "\"28704cb1eed34df54fad867b59aa4900\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5399,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:07:17.721Z.png",
+      "LastModified": "2023-04-14T09:07:19.000Z",
+      "ETag": "\"eeca73d8c8c92c29a11c571ca49ecdbc\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7702,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T09:07:39.677Z.png",
+      "LastModified": "2023-04-14T09:07:41.000Z",
+      "ETag": "\"90095fe551f307db1cab78315b1a9026\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7114,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T12:25:49.823Z.png",
+      "LastModified": "2023-04-14T12:25:52.000Z",
+      "ETag": "\"4baf227bbf2bfb52f2ae09d40b836263\"",
+      "ChecksumAlgorithm": [],
+      "Size": 2192,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T12:25:57.982Z.png",
+      "LastModified": "2023-04-14T12:25:59.000Z",
+      "ETag": "\"4baf227bbf2bfb52f2ae09d40b836263\"",
+      "ChecksumAlgorithm": [],
+      "Size": 2192,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T12:28:58.158Z.png",
+      "LastModified": "2023-04-14T12:28:59.000Z",
+      "ETag": "\"204e6575091daa8fd5b812041ebbd1e9\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3366,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T12:29:06.812Z.png",
+      "LastModified": "2023-04-14T12:29:08.000Z",
+      "ETag": "\"ddbe31d58a0101fa721463bec7404619\"",
+      "ChecksumAlgorithm": [],
+      "Size": 2895,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T12:29:20.132Z.png",
+      "LastModified": "2023-04-14T12:29:21.000Z",
+      "ETag": "\"c10e259679e958cfd6f2b0896c2d112e\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7359,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:17:00.491Z.png",
+      "LastModified": "2023-04-14T13:17:03.000Z",
+      "ETag": "\"8ad58b81caa5430a99cad574df462980\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3272,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:17:03.546Z.png",
+      "LastModified": "2023-04-14T13:17:06.000Z",
+      "ETag": "\"8ad58b81caa5430a99cad574df462980\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3272,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:17:06.053Z.png",
+      "LastModified": "2023-04-14T13:17:07.000Z",
+      "ETag": "\"2a48159cd52c89eda72310666e2efb95\"",
+      "ChecksumAlgorithm": [],
+      "Size": 1394,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:17:09.408Z.png",
+      "LastModified": "2023-04-14T13:17:11.000Z",
+      "ETag": "\"fa67073782adb9614a437af6db447965\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4349,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:17:17.025Z.png",
+      "LastModified": "2023-04-14T13:17:18.000Z",
+      "ETag": "\"ac7172ff56ee7055ec15cab14132d48a\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5384,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:17:22.967Z.png",
+      "LastModified": "2023-04-14T13:17:24.000Z",
+      "ETag": "\"6f4fac2083dedc12ec656a4cac97eb73\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4998,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:18:14.495Z.png",
+      "LastModified": "2023-04-14T13:18:16.000Z",
+      "ETag": "\"e6ba644e1f8111b21c52d47a22fceb4c\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3798,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:18:16.977Z.png",
+      "LastModified": "2023-04-14T13:18:18.000Z",
+      "ETag": "\"93e73fdfefc340bd8675cfaa7fee466b\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5901,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:18:17.767Z.png",
+      "LastModified": "2023-04-14T13:18:19.000Z",
+      "ETag": "\"560db0e9dc679c9cd71c82183c4dbfdd\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4340,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:19:33.166Z.png",
+      "LastModified": "2023-04-14T13:19:34.000Z",
+      "ETag": "\"156409d11d7094bf648491b6f9ff7272\"",
+      "ChecksumAlgorithm": [],
+      "Size": 8282,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:19:53.672Z.png",
+      "LastModified": "2023-04-14T13:19:55.000Z",
+      "ETag": "\"4d8fd2fb7a3fe4cdb60e3f3bd83d1168\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3844,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:19:56.908Z.png",
+      "LastModified": "2023-04-14T13:19:58.000Z",
+      "ETag": "\"1c5f1c7ab694d2cd03e59c34d733176f\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6111,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:20:17.144Z.png",
+      "LastModified": "2023-04-14T13:20:18.000Z",
+      "ETag": "\"f3fb2e04d717486a4a802501d5061736\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6021,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:20:27.464Z.png",
+      "LastModified": "2023-04-14T13:20:29.000Z",
+      "ETag": "\"77eec839c998eda336784e599723d4bd\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6095,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:22:34.034Z.png",
+      "LastModified": "2023-04-14T13:22:35.000Z",
+      "ETag": "\"7ebd05432de706431be498036b36af37\"",
+      "ChecksumAlgorithm": [],
+      "Size": 11535,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:22:42.397Z.png",
+      "LastModified": "2023-04-14T13:22:44.000Z",
+      "ETag": "\"ccc0e062f5dfa5cd159e853080e1077a\"",
+      "ChecksumAlgorithm": [],
+      "Size": 15932,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:22:47.376Z.png",
+      "LastModified": "2023-04-14T13:22:49.000Z",
+      "ETag": "\"adafaddacbe013e8c0536d35d42097e0\"",
+      "ChecksumAlgorithm": [],
+      "Size": 8177,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:22:51.051Z.png",
+      "LastModified": "2023-04-14T13:22:52.000Z",
+      "ETag": "\"7b4696e44b5e03676754d0604ceb369b\"",
+      "ChecksumAlgorithm": [],
+      "Size": 12901,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:22:55.457Z.png",
+      "LastModified": "2023-04-14T13:22:57.000Z",
+      "ETag": "\"2229527c05a7edbbb7c24d0ef5a8bf24\"",
+      "ChecksumAlgorithm": [],
+      "Size": 8057,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:22:58.982Z.png",
+      "LastModified": "2023-04-14T13:23:00.000Z",
+      "ETag": "\"afd7610690f6114d3ff4f6d0820c161f\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6374,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:23:12.222Z.png",
+      "LastModified": "2023-04-14T13:23:13.000Z",
+      "ETag": "\"958739c22c2c5b0aa7d52a51a12cfd21\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6393,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:23:18.524Z.png",
+      "LastModified": "2023-04-14T13:23:20.000Z",
+      "ETag": "\"3b9d60a63fb5c0faf7c35adcb353804c\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6294,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:23:22.682Z.png",
+      "LastModified": "2023-04-14T13:23:24.000Z",
+      "ETag": "\"d1e3cdb0f55a19502a5214d5448f8533\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7693,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:23:26.633Z.png",
+      "LastModified": "2023-04-14T13:23:28.000Z",
+      "ETag": "\"a018bf805df502931928f8d2e3b69614\"",
+      "ChecksumAlgorithm": [],
+      "Size": 10685,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:23:30.483Z.png",
+      "LastModified": "2023-04-14T13:23:32.000Z",
+      "ETag": "\"9488fd8693c6b874a038cf4fed0ce34f\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7850,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:23:41.769Z.png",
+      "LastModified": "2023-04-14T13:23:43.000Z",
+      "ETag": "\"ff75c5866a9b837289de30643db3af77\"",
+      "ChecksumAlgorithm": [],
+      "Size": 10890,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:23:48.792Z.png",
+      "LastModified": "2023-04-14T13:23:50.000Z",
+      "ETag": "\"b426ca5affa642161368cba329c86f99\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7297,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:24:00.168Z.png",
+      "LastModified": "2023-04-14T13:24:01.000Z",
+      "ETag": "\"e5051e688787f8539b0bc81bb310a934\"",
+      "ChecksumAlgorithm": [],
+      "Size": 10132,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:24:06.405Z.png",
+      "LastModified": "2023-04-14T13:24:08.000Z",
+      "ETag": "\"612ebc12aac6d876040c645847de410a\"",
+      "ChecksumAlgorithm": [],
+      "Size": 9688,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:24:09.933Z.png",
+      "LastModified": "2023-04-14T13:24:11.000Z",
+      "ETag": "\"1cecbadd9dbf2dbc9b7c12b1ab774c78\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7162,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:24:13.073Z.png",
+      "LastModified": "2023-04-14T13:24:14.000Z",
+      "ETag": "\"24aed18d3c5672071c03220aa4be1d54\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5658,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T13:24:21.545Z.png",
+      "LastModified": "2023-04-14T13:24:23.000Z",
+      "ETag": "\"e556f30a47c927a907b4447972368380\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5648,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-14T16:33:24.545Z.png",
+      "LastModified": "2023-04-14T16:33:27.000Z",
+      "ETag": "\"e195b35bac2674713ea33f27757f4030\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7721,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "bad-2023-04-15T00:21:27.854Z.png",
+      "LastModified": "2023-04-15T00:21:29.000Z",
+      "ETag": "\"e7b1f3d5a2d05c619ac6fd451c586b63\"",
+      "ChecksumAlgorithm": [],
+      "Size": 9665,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T08:52:54.453Z.png",
+      "LastModified": "2023-04-14T08:52:55.000Z",
+      "ETag": "\"c35b380db174fab2967710ac961a3970\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3508,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T08:52:57.417Z.png",
+      "LastModified": "2023-04-14T08:52:58.000Z",
+      "ETag": "\"3e3b6297abb61a87e72a82cef4aabf15\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4210,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T08:53:02.771Z.png",
+      "LastModified": "2023-04-14T08:53:04.000Z",
+      "ETag": "\"15c1569ace7f7febc8adf1b0f51dd2d4\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5161,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:02:49.985Z.png",
+      "LastModified": "2023-04-14T09:02:52.000Z",
+      "ETag": "\"bdd07637aea65a7ea4506458dfefd01d\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7704,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:02:57.852Z.png",
+      "LastModified": "2023-04-14T09:02:59.000Z",
+      "ETag": "\"cdcc24d0e715016bdd93dc5acf2a71dc\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5917,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:02:59.348Z.png",
+      "LastModified": "2023-04-14T09:03:01.000Z",
+      "ETag": "\"615787cbffc9143a8dc2b4ee130b4c2a\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5763,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:03:00.607Z.png",
+      "LastModified": "2023-04-14T09:03:02.000Z",
+      "ETag": "\"a8ec4ce1940a0aa2896f643a89eee3a2\"",
+      "ChecksumAlgorithm": [],
+      "Size": 1393,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:03:03.249Z.png",
+      "LastModified": "2023-04-14T09:03:04.000Z",
+      "ETag": "\"432116861fd65f7eeb31c981316d5594\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4960,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:03:29.383Z.png",
+      "LastModified": "2023-04-14T09:03:31.000Z",
+      "ETag": "\"baa18883a9c0e120c928f8e1f762b856\"",
+      "ChecksumAlgorithm": [],
+      "Size": 2616,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:04:17.369Z.png",
+      "LastModified": "2023-04-14T09:04:19.000Z",
+      "ETag": "\"1f614862d011284e6a9db5004785c424\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3908,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:05:30.894Z.png",
+      "LastModified": "2023-04-14T09:05:32.000Z",
+      "ETag": "\"1f614862d011284e6a9db5004785c424\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3908,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:07:59.762Z.png",
+      "LastModified": "2023-04-14T09:08:01.000Z",
+      "ETag": "\"3c87208f8d39f3c41944739141a1d616\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6650,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:08:11.219Z.png",
+      "LastModified": "2023-04-14T09:08:12.000Z",
+      "ETag": "\"aff2be25897c60990e6c597e8d975165\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5861,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:08:23.073Z.png",
+      "LastModified": "2023-04-14T09:08:24.000Z",
+      "ETag": "\"21a53fc1a9af27afa030d6df76dc1fe5\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5912,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:08:48.492Z.png",
+      "LastModified": "2023-04-14T09:08:50.000Z",
+      "ETag": "\"adeef4d790ab095f26ea46eea2d88798\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3285,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:01.292Z.png",
+      "LastModified": "2023-04-14T09:09:03.000Z",
+      "ETag": "\"323703a2f56885b29d264e308a566215\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5731,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:05.220Z.png",
+      "LastModified": "2023-04-14T09:09:06.000Z",
+      "ETag": "\"c6fcdd3dff713f59dcdd385881f9ac92\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4719,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:09.943Z.png",
+      "LastModified": "2023-04-14T09:09:11.000Z",
+      "ETag": "\"af82dad2637208f3ef3858baca6eec8d\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4738,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:13.676Z.png",
+      "LastModified": "2023-04-14T09:09:15.000Z",
+      "ETag": "\"41e9815d6708f93e5dedffff7534c794\"",
+      "ChecksumAlgorithm": [],
+      "Size": 2995,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:18.049Z.png",
+      "LastModified": "2023-04-14T09:09:19.000Z",
+      "ETag": "\"77015457a0a444c3bd0838e643b84541\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3238,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:27.778Z.png",
+      "LastModified": "2023-04-14T09:09:29.000Z",
+      "ETag": "\"5d39a5f9435c6118d322cb821d26ad98\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5898,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:30.931Z.png",
+      "LastModified": "2023-04-14T09:09:32.000Z",
+      "ETag": "\"814c25ac6a5a5e935600891b6c1d01f8\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4227,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:33.944Z.png",
+      "LastModified": "2023-04-14T09:09:35.000Z",
+      "ETag": "\"d8b3ebc1e022a8624f559f0b5b6c80bf\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5217,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:36.814Z.png",
+      "LastModified": "2023-04-14T09:09:38.000Z",
+      "ETag": "\"1f7dc90d94e9aec933bffb037c4c9db4\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4446,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T09:09:42.458Z.png",
+      "LastModified": "2023-04-14T09:09:44.000Z",
+      "ETag": "\"8210a6f6c081ef0cbb4ed67d16153aa5\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5419,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:27:04.362Z.png",
+      "LastModified": "2023-04-14T12:27:06.000Z",
+      "ETag": "\"1ceed407d871bc2de44000d8027ba22f\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3788,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:27:26.528Z.png",
+      "LastModified": "2023-04-14T12:27:28.000Z",
+      "ETag": "\"07f0bce3e0cdc11c10371d93287920b8\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5423,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:27:39.957Z.png",
+      "LastModified": "2023-04-14T12:27:41.000Z",
+      "ETag": "\"acdbb800fb38bae18648fb5797b402d9\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4858,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:27:45.854Z.png",
+      "LastModified": "2023-04-14T12:27:47.000Z",
+      "ETag": "\"855f5f6aec148a9433ea7ebc842e8d0c\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3763,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:27:54.688Z.png",
+      "LastModified": "2023-04-14T12:27:56.000Z",
+      "ETag": "\"7ee500f6cf0e90b9a403fbd7cb537328\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4145,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:27:59.052Z.png",
+      "LastModified": "2023-04-14T12:28:00.000Z",
+      "ETag": "\"210b75193d8d56df525564cac687ea4a\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3379,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:28:04.414Z.png",
+      "LastModified": "2023-04-14T12:28:06.000Z",
+      "ETag": "\"f324c846d346c4a9964ed6b2395c19b0\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3087,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:28:08.950Z.png",
+      "LastModified": "2023-04-14T12:28:10.000Z",
+      "ETag": "\"6f5c5ab808c71fc806136c9b49e1030d\"",
+      "ChecksumAlgorithm": [],
+      "Size": 2558,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:28:14.470Z.png",
+      "LastModified": "2023-04-14T12:28:16.000Z",
+      "ETag": "\"758ded54f033aa523df36dc140a196c3\"",
+      "ChecksumAlgorithm": [],
+      "Size": 2544,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:40:06.134Z.png",
+      "LastModified": "2023-04-14T12:40:08.000Z",
+      "ETag": "\"e28a9685343363bb84b0fd31d6277a29\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7731,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:40:08.367Z.png",
+      "LastModified": "2023-04-14T12:40:11.000Z",
+      "ETag": "\"e28a9685343363bb84b0fd31d6277a29\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7731,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T12:40:08.510Z.png",
+      "LastModified": "2023-04-14T12:40:11.000Z",
+      "ETag": "\"e28a9685343363bb84b0fd31d6277a29\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7731,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:17:29.475Z.png",
+      "LastModified": "2023-04-14T13:17:31.000Z",
+      "ETag": "\"7a8d133440917225b970afde040ff211\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4115,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:17:33.222Z.png",
+      "LastModified": "2023-04-14T13:17:34.000Z",
+      "ETag": "\"bfc24965050681bc68693c725a01241c\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3762,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:17:37.111Z.png",
+      "LastModified": "2023-04-14T13:17:38.000Z",
+      "ETag": "\"d3529a8ed4faa2bd5948b8c43c5f3e8f\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3987,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:17:41.987Z.png",
+      "LastModified": "2023-04-14T13:17:43.000Z",
+      "ETag": "\"9308198856b16ba7cc9332b53e6fa641\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3767,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:17:47.380Z.png",
+      "LastModified": "2023-04-14T13:17:49.000Z",
+      "ETag": "\"9308198856b16ba7cc9332b53e6fa641\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3767,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:18:08.740Z.png",
+      "LastModified": "2023-04-14T13:18:10.000Z",
+      "ETag": "\"c30e32c0848819a5f013ee66ab7fb6de\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3832,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:20:00.158Z.png",
+      "LastModified": "2023-04-14T13:20:01.000Z",
+      "ETag": "\"4994f6ee5a4c919bf1b8a5862c10378b\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4954,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:20:02.988Z.png",
+      "LastModified": "2023-04-14T13:20:04.000Z",
+      "ETag": "\"1681b2f1a5367e64c0657b1a34038b0f\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4189,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:20:05.802Z.png",
+      "LastModified": "2023-04-14T13:20:07.000Z",
+      "ETag": "\"b637e31afcd29b30ab49efa290e071c9\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4075,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:20:09.148Z.png",
+      "LastModified": "2023-04-14T13:20:10.000Z",
+      "ETag": "\"d12628891d2e40d89164ae649cd3804f\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5241,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:20:12.266Z.png",
+      "LastModified": "2023-04-14T13:20:14.000Z",
+      "ETag": "\"070c0fb72f13390e5a91a8b8f3457755\"",
+      "ChecksumAlgorithm": [],
+      "Size": 3321,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:20:22.434Z.png",
+      "LastModified": "2023-04-14T13:20:24.000Z",
+      "ETag": "\"efa45c2ef480de39dc1a39e5dd22eee6\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4819,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:22:25.721Z.png",
+      "LastModified": "2023-04-14T13:22:27.000Z",
+      "ETag": "\"7d5f557d0a13981bc320268e3fba6ed8\"",
+      "ChecksumAlgorithm": [],
+      "Size": 4944,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:23:06.321Z.png",
+      "LastModified": "2023-04-14T13:23:08.000Z",
+      "ETag": "\"d3fb510a00b81e98aa02bba689b8194e\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5102,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:24:14.434Z.png",
+      "LastModified": "2023-04-14T13:24:16.000Z",
+      "ETag": "\"2a48159cd52c89eda72310666e2efb95\"",
+      "ChecksumAlgorithm": [],
+      "Size": 1394,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:24:14.437Z.png",
+      "LastModified": "2023-04-14T13:24:16.000Z",
+      "ETag": "\"a937533f40db593e7908746cb66ba442\"",
+      "ChecksumAlgorithm": [],
+      "Size": 5950,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:24:16.201Z.png",
+      "LastModified": "2023-04-14T13:24:17.000Z",
+      "ETag": "\"2a48159cd52c89eda72310666e2efb95\"",
+      "ChecksumAlgorithm": [],
+      "Size": 1394,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:24:22.796Z.png",
+      "LastModified": "2023-04-14T13:24:24.000Z",
+      "ETag": "\"5beacdf79cb13da3e562d70010dcc081\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6366,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:38:13.104Z.png",
+      "LastModified": "2023-04-14T13:38:15.000Z",
+      "ETag": "\"c538f1126742b27cc44e449a214beb1b\"",
+      "ChecksumAlgorithm": [],
+      "Size": 8161,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:38:15.114Z.png",
+      "LastModified": "2023-04-14T13:38:17.000Z",
+      "ETag": "\"c538f1126742b27cc44e449a214beb1b\"",
+      "ChecksumAlgorithm": [],
+      "Size": 8161,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T13:38:25.111Z.png",
+      "LastModified": "2023-04-14T13:38:26.000Z",
+      "ETag": "\"a995a2805831bbd57987cd9e2fd6d57f\"",
+      "ChecksumAlgorithm": [],
+      "Size": 9106,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-14T16:33:32.709Z.png",
+      "LastModified": "2023-04-14T16:33:34.000Z",
+      "ETag": "\"dd30f56a2333153dca8997b325858d2c\"",
+      "ChecksumAlgorithm": [],
+      "Size": 8237,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-15T00:21:10.598Z.png",
+      "LastModified": "2023-04-15T00:21:13.000Z",
+      "ETag": "\"a549258623be5f9437bb7f92e2303bf7\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7089,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-15T00:21:46.791Z.png",
+      "LastModified": "2023-04-15T00:21:48.000Z",
+      "ETag": "\"b4c38ebd9bf89fce65ba17c37fbcc265\"",
+      "ChecksumAlgorithm": [],
+      "Size": 7168,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    },
+    {
+      "Key": "good-2023-04-15T00:21:58.160Z.png",
+      "LastModified": "2023-04-15T00:21:59.000Z",
+      "ETag": "\"d207f9184144135490ea87f22c17a6b9\"",
+      "ChecksumAlgorithm": [],
+      "Size": 6329,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "betich365",
+        "ID": "190c739932e57cf95b492b5cd0f3b776cfdc3dd9755545c140659973999cb2ce"
+      }
+    }
+  ],
+  "count": 118
+}
